@@ -1,0 +1,24 @@
+
+.bio{
+    width: 30%;
+	min-height:100%;
+	position:relative;
+    float: left;
+	background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+
+	background-size:cover;
+	background-repeat:repeat-x;
+}
+.projects{
+    width: 70%;
+	float:right;
+	position:relative;
+}
+
+
+
+.dp{
+	border-radius: 70%;
+	float:right;
+	width: 80%;
+}
